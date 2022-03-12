@@ -2,7 +2,7 @@
 
 ## Third Semester
 
-- ### Programming I
+- ### [Programming I](https://github.com/douglasmatosdev/college_computer_science/tree/master/programming_i)
 - ### Data Structure
 - ### Data Modeling
 - ### Basic Software Programming
