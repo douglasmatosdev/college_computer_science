@@ -1,0 +1,7 @@
+{
+    "configurations": [
+        {
+            "preLaunchTask": "C/C++: gcc build active file"
+        }
+    ]
+}
